@@ -7,3 +7,6 @@
 
 
 <img width="524" alt="Screenshot 2024-07-23 at 10 09 38 AM" src="https://github.com/user-attachments/assets/2948a02a-4196-4d1d-be67-de5ece70a9e2">
+
+## Installation
+- Download the requirements.txt file, and then run the algorithm file!
