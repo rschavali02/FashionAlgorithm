@@ -1,0 +1,9 @@
+certifi
+numpy
+opencv-python
+matplotlib
+pandas
+pymongo
+scikit-learn
+tensorflow
+tk
