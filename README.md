@@ -1,4 +1,8 @@
 ## Fashion Algorithm
+FASHION RECCOMENDATION ALGORITHM (Python, Tensorflow, Numpy, Matplotlib, Sklearn, Tkinter, Cv2)
+• Developed a recommendation algorithm with Tensorflow VGG16 model for image classification and 190+ user images.
+• Built recommendation model by finding the cosine similarity between the input image and the dataset using Sklearn.
+• Employed Matplotlib to show the input image and similar images; used Tkinter to create a GUI for users to select images.
 - Built using  Python, Tensorflow, Numpy, Matplotlib, Sklearn, Tkinter, Cv2
 - Input any image of clothing and get similar images from the 100+ clothing pieces in the uploads file
 - Uses a cosine similarity function and a similarity matrix to reccomend similar images
