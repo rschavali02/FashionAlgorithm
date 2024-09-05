@@ -1,6 +1,7 @@
 ## Fashion Algorithm
 - This is a more basic version of the algorithm I build for Quture Fashion, for privacy reasons the exact code is not shown
 - The differences include a 60%/40% split of matching genres in our MongoDB using PyMongo and the code shown in this repo with TensorFlow
+
 FASHION RECCOMENDATION ALGORITHM (Python, Tensorflow, Numpy, Matplotlib, Sklearn, Tkinter, Cv2)
 - Developed a recommendation algorithm with Tensorflow VGG16 model for image classification and 190+ user images.
 - Built recommendation model by finding the cosine similarity between the input image and the dataset using Sklearn.
